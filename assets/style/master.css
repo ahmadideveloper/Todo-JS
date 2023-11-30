@@ -1,0 +1,43 @@
+#main {
+  background-color: #020631;
+  height: 100vh;
+}
+#main .form > div > div:nth-of-type(1) > input {
+  border-radius: 7px;
+  border: none;
+  outline: none;
+}
+#main .form > div > div:nth-of-type(1) #delAll {
+  opacity: 0;
+  visibility: hidden;
+}
+#main .form > div > div:nth-of-type(2) {
+  cursor: pointer;
+}
+#main .form > div > div:nth-of-type(2):hover i {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+#main .form > div > div:nth-of-type(2) > div {
+  border-radius: 7px;
+}
+#main .form > div > div:nth-of-type(2) > div > .right * {
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.4s;
+  color: rgb(184, 184, 184);
+}
+#main .form > div > div:nth-of-type(2) > div > .right *:hover {
+  color: inherit;
+}
+#main .form > div > div:nth-of-type(2) > div > .right > i:nth-of-type(1) {
+  font-size: 20px;
+}
+#main .form > div > footer {
+  color: #8c87ca;
+}
+#main .form > div > footer > a {
+  color: #337ab7;
+  text-decoration: none;
+}/*# sourceMappingURL=master.css.map */
