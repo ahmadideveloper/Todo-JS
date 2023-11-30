@@ -1,6 +1,6 @@
 # Todo-JS
 
-![todo-js](https://github.com/ahmadideveloper/Todo-JS/assets/141068188/d621d769-55cf-4ac3-9bcf-60a54ead0f43)
+![todo_js](https://github.com/ahmadideveloper/Todo-JS/assets/141068188/5d926ec7-5612-4a25-a4a0-98c210bbb624)
 
 
 - 🔗 [Demo Project]https://ahmadideveloper.github.io/Todo-JS)
